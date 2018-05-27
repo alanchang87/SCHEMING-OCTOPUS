@@ -2,5 +2,6 @@
     <string name="app_name">OCTOPUS</string>
     <string name="enter_btn">Create Memories</string>
     <string name="capture_btn">Capture</string>
+    <string name="switch_btn">Swtich Camera</string>
     <string name="home_image">Mr and Mrs XXX Wedding</string>
 </resources>
